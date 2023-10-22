@@ -1,0 +1,21 @@
+1. write a function to calculate sum of the two numbers.
+def add(a, b):
+   sum = a+b
+   print(sum)
+
+add(10,20)
+add(30,40)
+2. find even numbers
+
+def iseven(num):
+     if(num%2 == 0)
+       print("true")
+     else
+      print("false")
+
+
+iseven(3)
+iseven(5)
+iseven(10)
+iseven(11)
+iseven(12)
