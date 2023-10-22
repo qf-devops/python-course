@@ -1,0 +1,7 @@
+hello = ("Pen", "Bag", "Pencil", "Eraser", "Book", "Bag")
+world = ("School",)
+num = (1, 2, 3, 4, 5, 6, 7, 8, 9)
+bool = (True, False)
+mix = ("Bag", 1, 5, True)
+constup = tuple(("Bag", "Book", 5, 6, 7, True))
+print(type(constup))
